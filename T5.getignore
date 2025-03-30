@@ -1,0 +1,10 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+temp/
+*.tmp
+
+# Ignore compiled files
+*.class
+*.exe
